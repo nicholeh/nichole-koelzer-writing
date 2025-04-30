@@ -1,6 +1,6 @@
 ---
 title: Using Obsidian to Manage Content in Astro
-modified: April 30, 2025, 02:00 pm
+modified: April 30, 2025, 05:25 pm
 ---
 
 # Using Obsidian to Manage Content in Astro
