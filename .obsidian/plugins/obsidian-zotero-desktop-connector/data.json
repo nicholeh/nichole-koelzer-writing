@@ -1,0 +1,23 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Add Pandoc Citation",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "Add Bibliography Citation",
+      "format": "formatted-bibliography",
+      "cslStyle": "apa"
+    }
+  ],
+  "exportFormats": [],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
