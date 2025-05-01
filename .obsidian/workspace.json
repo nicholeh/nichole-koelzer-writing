@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "using-obsidian-to-manage-content-in-astro.md.md",
+                "file": "Pages to Add to the Garden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "using-obsidian-to-manage-content-in-astro.md"
+              "title": "Pages to Add to the Garden"
+            }
+          },
+          {
+            "id": "a08e66478c1f92d1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/front-matter-timestamps/data.json",
+                "bFile": ".obsidian/plugins/front-matter-timestamps/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"created\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,11 +218,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47d5b12e443b923c",
+  "active": "a08e66478c1f92d1",
   "lastOpenFiles": [
-    "using-obsidian-to-manage-content-in-astro.md.md",
-    "unit-testing-a-dialog.md",
-    "temp.md",
+    "Using Figma Variables to Create a Design System.md",
+    "Pages to Add to the Garden.md",
+    "Using Obsidian to Manage Content in Astro.md",
+    "Unit Testing the HTML Dialog Element.md",
+    "Figma for VS Code Extension.md",
+    "templates/Note Template.md",
+    "One more time.md",
+    "Testing a different note.md",
+    "This is a title.md",
+    "templates",
     "nichole-koelzer-writing"
   ]
 }

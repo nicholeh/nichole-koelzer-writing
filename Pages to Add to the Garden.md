@@ -1,13 +1,11 @@
 ---
-title: "Pages to add to garden"
-pubDate: 2025-40-23
-status: "idea"
-tags: []
-linked: []
-externalReferences: []
+title: Pages to Add to the Garden
+created: 2025-04-23T17:46:00
+modified: 2025-05-01T12:13:55
+status: idea
+linked: 
+permalink: 
 ---
-
-# Pages to Add to the garden
 
 ## Site Documentation
 
@@ -35,3 +33,4 @@ externalReferences: []
 - Tags
 - Statuses & Meanings
 - Created & Updated dates
+- 

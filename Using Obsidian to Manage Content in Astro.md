@@ -1,9 +1,12 @@
 ---
 title: Using Obsidian to Manage Content in Astro
-modified: May 01, 2025, 10:20 am
+created: 2025-04-29T16:17:00
+modified: 2025-05-01T12:12:45
+status: seedling
+linked:
+  - "[[Content Management]]"
+permalink: 
 ---
-
-# Using Obsidian to Manage Content in Astro
 
 ## Figuring out what content should be managed in Astro.
 
@@ -11,7 +14,7 @@ I do not want to manage all content in Astro, just the digital garden portion. S
 
 1. Open `/writing/` folder as a new vault in Obsidian using the "Open folder as Vault" option (if you already have this set up in your repo).
 2. Install all the plugins and themes. See [[How I set up Obsidian]].
-3. Install
+3. Install the git for obsidian plugin.
 
 There appears to be three ways to do this:
 

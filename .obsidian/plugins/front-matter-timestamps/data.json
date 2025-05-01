@@ -3,7 +3,7 @@
   "autoAddTimestamps": true,
   "createdPropertyName": "created",
   "modifiedPropertyName": "modified",
-  "dateFormat": "MMMM DD, YYYY, hh:mm a",
+  "dateFormat": "YYYY-MM-DDTHH:mm:ss",
   "allowNonEmptyNewFile": false,
   "delayAddingTimestamps": 1000,
   "excludedFolders": [],
