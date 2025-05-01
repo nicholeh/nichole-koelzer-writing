@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b69f14c61d264acc",
+        "id": "1c77190a48e7e1e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e522faf646b9cfb8",
+            "id": "47d5b12e443b923c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "using-obsidian-to-manage-content-in-astro.md.md",
-                "bFile": "using-obsidian-to-manage-content-in-astro.md.md",
-                "aRef": ""
+                "file": "using-obsidian-to-manage-content-in-astro.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: using-obsidian-to-manage-content-in-astro.md"
+              "icon": "lucide-file",
+              "title": "using-obsidian-to-manage-content-in-astro.md"
             }
           }
         ]
@@ -192,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e522faf646b9cfb8",
+  "active": "47d5b12e443b923c",
   "lastOpenFiles": [
     "using-obsidian-to-manage-content-in-astro.md.md",
-    "nichole-koelzer-writing",
     "unit-testing-a-dialog.md",
-    "temp.md"
+    "temp.md",
+    "nichole-koelzer-writing"
   ]
 }
