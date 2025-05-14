@@ -1,11 +1,11 @@
 ---
 title: Using Obsidian to Manage Content in Astro
 created: 2025-04-29T16:17:00
-modified: 2025-05-01T12:12:45
+modified: 2025-05-13T16:21:25
 status: seedling
 linked:
   - "[[Content Management]]"
-permalink: 
+permalink: using-obsidian-to-manage-content-in-astro
 ---
 
 ## Figuring out what content should be managed in Astro.
